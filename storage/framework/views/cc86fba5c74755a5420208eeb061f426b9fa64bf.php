@@ -1,0 +1,1 @@
+<h1>it works!</h1><?php /**PATH C:\xampp\htdocs\finalwebproj\resources\views/updated.blade.php ENDPATH**/ ?>
